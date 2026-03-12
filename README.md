@@ -5,6 +5,8 @@
 [![C++17](https://img.shields.io/badge/C++-17-blue.svg)](https://en.cppreference.com/)
 [![Platform](https://img.shields.io/badge/Platform-Cross--Platform-orange.svg)]()
 
+A Opti-MPPI-cost-calculator： https://github.com/Robot-Nav/Opti-MPPI-cost-calculator
+
 A **pure C++**, high-performance, industrial-grade **Model Predictive Path Integral (MPPI)** controller for mobile robots with laser-based obstacle avoidance. Designed for **cross-platform portability** and **direct industrial deployment**.
 
 > **Key Advantage**: The core MPPI controller (`mppi_controller.hpp`) is implemented in **pure C++17** with **zero ROS2 dependencies**, making it instantly portable to any embedded platform, real-time OS, or robotics framework (ROS1, ROS2, custom middleware).
@@ -582,5 +584,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Contact
 
 For questions or issues, please open an issue on the GitHub repository.
+
 
 
