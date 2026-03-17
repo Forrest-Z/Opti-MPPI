@@ -394,6 +394,10 @@ ros2 run opti_mppi mppi_path_publisher.py
 
 # 终端3：在RViz中可视化
 ros2 run rviz2 rviz2 -d src/opti_mppi/config/mppi_test.rviz
+
+# 终端4：map->odom的静态变换、
+ros2 run tf2_ros static_transform_publisher 0 0 0 0 0 0 map odom
+
 ```
 
 ### 路径发布器命令
