@@ -7,6 +7,8 @@
 
 A Opti-MPPI-cost-calculator： https://github.com/Robot-Nav/Opti-MPPI-cost-calculator
 
+This project is currently being continuously updated, and DRL may be added later.
+
 Readme_CN：[README_CN](README_CN.md)
 
 A **pure C++**, industrial-grade **Model Predictive Path Integral (MPPI)** controller for mobile robots with laser-based obstacle avoidance. Designed for **cross-platform portability** and **direct industrial deployment**.
