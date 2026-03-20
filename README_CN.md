@@ -7,6 +7,8 @@
 
 **纯C++**实现的高性能、工业级**模型预测路径积分（MPPI）**控制器，专为移动机器人路径跟踪/激光避障设计。支持**跨平台移植**和**直接工业部署**。
 
+This project is currently being continuously updated, and DRL may be added later.
+
 > **核心优势**：核心MPPI控制器（`mppi_controller.hpp`）采用**纯C++17**实现，**零ROS2依赖**，可即时移植到任何嵌入式平台、实时操作系统或机器人框架（ROS1、ROS2、自定义中间件）。
 
 实验如下：
