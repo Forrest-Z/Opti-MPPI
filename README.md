@@ -4,6 +4,8 @@
 [![ROS2](https://img.shields.io/badge/ROS2-Humble%2FIron%2FJazzy-green.svg)](https://docs.ros.org/)
 [![C++17](https://img.shields.io/badge/C++-17-blue.svg)](https://en.cppreference.com/)
 [![Platform](https://img.shields.io/badge/Platform-Cross--Platform-orange.svg)]()
+[![DRL](https://img.shields.io/badge/DRL-Deep%20Reinforcement%20Learning-purple.svg)]()
+[![Navigation](https://img.shields.io/badge/Navigation-ROS%20Nav2-brightgreen.svg)]()
 
 A Opti-MPPI-cost-calculator： https://github.com/Robot-Nav/Opti-MPPI-cost-calculator
 
